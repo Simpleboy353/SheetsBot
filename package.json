@@ -1,0 +1,18 @@
+{
+  "name": "discord-sheets",
+  "version": "1.0.0",
+  "description": "A bot that uses google sheets to store users",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simpleboy353",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^91.0.0"
+  }
+}
