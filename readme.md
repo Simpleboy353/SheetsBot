@@ -5,7 +5,7 @@
 
 ## Important:
 - No additional help will be provided for this repository.
-- Read the `reamde.md` carefully for complete information about the bot.
+- Read the `reamde.md` file for complete information about the bot.
 - It is recommended to watch the GoogleSheetsAPI tutorial for more information. (Link Below, Under Configuration)
 - If you have any questions, please contact me on [discord](https://discord.com/users/661501985517862972).
 
