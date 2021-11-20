@@ -1,6 +1,6 @@
 <h3 align="center">SheetsBot</h3>
 <p align="center">
-	SheetsBot is a bot that allows you to read, write and remove data from Google Sheets.
+	SheetsBot is a discord bot that allows you to read, write and remove data from Google Sheets.
 </p>
 
 ## Important:
