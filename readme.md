@@ -1,4 +1,12 @@
 <h3 align="center">SheetsBot</h3>
+
+<p align="center">
+<a href="https://github.com/Simpleboy353/SheetsBot/blob/main/LICENSE.md"><img alt="GitHub License" src="https://img.shields.io/github/license/Simpleboy353/REAPER-2.0?style=for-the-badge" height="40" width="200"></a>
+<a href="https://www.buymeacoffee.com/simpleboy353" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="200"></a>
+<a href="https://github.com/Simpleboy353/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Simpleboy353/SheetsBot?style=for-the-badge" height="40" width="140"></a> 
+<a href="https://github.com/Simpleboy353/SheetsBot/network"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/Simpleboy353/SheetsBot?style=for-the-badge" height="40" width="140"></a>
+<a href="https://discord.gg/PCFedSNnqp"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" width="140"></a>
+
 <p align="center">
 	SheetsBot is a discord bot that allows you to read, write and remove data from Google Sheets.
 </p>
